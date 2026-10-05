@@ -3,3 +3,7 @@ public class App {
         return a + b;
     }
 }
+
+public static String getSecret() {
+ return "secret";
+}
