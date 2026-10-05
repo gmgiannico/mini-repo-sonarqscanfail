@@ -7,3 +7,7 @@ public class App {
 public static String getSecret() {
  return "secret";
 }
+
+public static void logMessage() {
+ System.out.println("test");
+}
